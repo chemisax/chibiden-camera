@@ -1,0 +1,15 @@
+<settings>
+    <numPanels>4</numPanels>
+    <caltime>5</caltime>
+    <arduinoPort>tty.usbmodem26441</arduinoPort>
+    <arduinoSpeed>57600</arduinoSpeed>
+    <controlboxCheck>1</controlboxCheck>
+    <intrologo>1</intrologo>
+    <camera1ID>1</camera1ID>
+    <camera2ID>2</camera2ID>
+    <camera3ID>0</camera3ID>
+    <cameraTime>30</cameraTime>
+    <cameraTimePhotos>20</cameraTimePhotos>
+    <showTime>100</showTime>
+    <effectTreshold>0.9</effectTreshold>
+</settings>
